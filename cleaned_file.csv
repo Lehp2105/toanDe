@@ -1,0 +1,21 @@
+SKU,Product_Name,Category,Unit_Cost,Selling_Price,Current_Stock,Reorder_Point,Min_Stock,Max_Stock,Lead_Time_Days
+A123,Laptop Dell Inspiron 15 3000,Laptop,700,900,100.0,50,20,150,7
+B456,Samsung Galaxy S23 Ultra,Smartphone,850,1100,80.0,30,10,120,10
+C789,Apple AirPods Pro 2,Earphone,200,250,27.5,40,10,100,5
+D101,Canon EOS 80D DSLR Camera,Camera,500,700,30.0,20,5,80,12
+E112,Sony WH-1000XM5 Wireless Noise Cancelling Headphones,Headphone,300,400,27.5,30,10,70,8
+F134,LG OLED48C1PUB 48 Inch 4K OLED TV,TV,1200,1500,20.0,10,5,50,14
+G156,HP Envy x360 13-ay0000,Laptop,650,850,60.0,30,15,100,9
+H178,Apple iPhone 14 Pro Max,Smartphone,1000,1300,50.0,25,10,100,11
+I190,Bose QuietComfort 45 Wireless Headphones,Headphone,250,350,40.0,20,10,80,6
+J202,Samsung Galaxy Watch5 Pro,Smartwatch,350,450,30.0,15,5,60,7
+K214,JBL Charge 5 Portable Bluetooth Speaker,Speaker,150,200,27.5,20,5,50,4
+L226,GoPro HERO11 Black,Action Camera,400,550,20.0,10,5,40,10
+M238,DJI Mavic Air 2S,Drone,800,1100,10.0,5,2,20,15
+N250,Fitbit Sense 2 Advanced Smartwatch,Smartwatch,200,270,15.0,10,5,40,8
+O262,Logitech MX Master 3S Advanced Wireless Mouse,Mouse,80,110,27.5,15,5,30,6
+P274,Microsoft Surface Pro 8,Tablet,800,1000,10.0,5,2,20,12
+Q286,Apple Magic Keyboard,Keyboard,80,110,27.5,10,2,20,5
+R298,Samsung Galaxy Buds 2 Pro,Earphone,180,230,25.0,10,5,50,7
+S310,Razer Viper Ultimate Wireless Gaming Mouse,Mouse,120,150,10.0,5,2,20,8
+T322,Philips Hue White and Color Ambiance Starter Kit,Smart Lighting,150,200,27.5,15,5,30,6
